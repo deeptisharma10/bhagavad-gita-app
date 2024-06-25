@@ -1,1 +1,1 @@
-# bhagavad-gita-app
+# bhagavad-gita-react
